@@ -14,7 +14,7 @@ const About = () => {
       </div>
       <div className="about-section-text-container">
         <h1 className="primary-heading">
-          Healthy Eating Made Easy
+        Healthy Eating Made Easy
         </h1>
         <p className="primary-text">
         We believe that nutritious food is key to a healthy lifestyle. 
